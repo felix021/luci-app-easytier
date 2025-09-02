@@ -33,7 +33,7 @@ jobs:
           - aarch64_generic
           
         sdk:
-          - 21.02
+          - openwrt-21.02
 
     steps:
       - uses: actions/checkout@v4
